@@ -3,7 +3,7 @@ layout: default
 title: "Teaching"
 ---
 
-Here I list the classes I guest lectured and led lab sessions for at the Harvard T.H. Chan School of Public Health.
+Here are the classes I guest lectured and led lab sessions for at the Harvard T.H. Chan School of Public Health.
 
 Guest lecturer:
 
