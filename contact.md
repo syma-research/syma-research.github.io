@@ -3,7 +3,7 @@ layout: default
 title: "Contact"
 ---
 
-Siyuan Ma, Ph.D.
+**Siyuan Ma, Ph.D.**
 
 Postdoctoral researcher
 
@@ -13,4 +13,4 @@ University of Pennsylvania
 
 423 Guardian Dr., Philadelphia, PA
 
-<siyuan.ma@pennmedicine.upenn.edu?
+<siyuan.ma@pennmedicine.upenn.edu>

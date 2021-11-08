@@ -19,6 +19,4 @@ Teaching assistant:
 
 * BST 215, Linear and longitudinal regression 
 
-* BST 215, Linear and longitudinal regression 
-
 * BST 508, Genomic data manipulation
