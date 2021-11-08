@@ -19,7 +19,7 @@ title: "Research"
 
 [4] De Niz, M., Meibalan, E., Mejia, P., **Ma, S.**, et al. (2018), Plasmodium gametocytes display homing and vascular transmigration in the host bone marrow. ***Science advances***
 
-[3] Mallick, H.*, **Ma, S.**, Franzosa, E.A., et al. (2017). Experimental design and quantitative analysis of microbial community multi’omics. ***Genome Biology***
+[3] Mallick, H.\*, **Ma, S.\***, Franzosa, E.A., et al. (2017). Experimental design and quantitative analysis of microbial community multi’omics. ***Genome Biology***
 
 [2] Sinha, R., Abu-Ali, G., Vogtmann, E., Fodor, A.A., Ren, B., Amir, A., Schwager, E., Crabtree, J., **Ma, S.**, et al (2017), Assessment of variation in microbial community amplicon sequencing by the Microbiome Quality Control (MBQC) project consortium, ***Nature Biotechnology***
 
@@ -37,27 +37,27 @@ title: "Research"
 
 ## Invited talks
 
-[5] ***A Statistical Model for Simulating and Testing for Microbiomes***, Biostatistics Seminar Series, Department of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania. Philadelphia, PA, 2021
+[5] **A Statistical Model for Simulating and Testing for Microbiomes**, Biostatistics Seminar Series, Department of Biostatistics, Epidemiology, and Informatics, University of Pennsylvania. Philadelphia, PA, 2021
 
-[4] ***Testing Cell-Cell Interactions in Imaging Mass Cytometry Data***, IMC Working Group Meeting, Perelman School of Medicine, University of Pennsylvania. Philadelphia, PA, 2021
+[4] **Testing Cell-Cell Interactions in Imaging Mass Cytometry Data**, IMC Working Group Meeting, Perelman School of Medicine, University of Pennsylvania. Philadelphia, PA, 2021
 
-[3] ***Meta-Analysis of Population Structure in the IBD Gut Microbiome***, Microbiome Working Group Meeting, Harvard Chan Microbiome in Public Health Center. Boston, MA, 2019
+[3] **Meta-Analysis of Population Structure in the IBD Gut Microbiome**, Microbiome Working Group Meeting, Harvard Chan Microbiome in Public Health Center. Boston, MA, 2019
 
-[2] ***Meta-Analysis of Population Heterogeneity in IBD Patients’ Gut Microbiome***, CMIT Work-in-Progress Meeting, Center for Microbiome Informatics and Therapeutics, Massachusetts Institute of Technology. Cambridge, MA, 2017
+[2] **Meta-Analysis of Population Heterogeneity in IBD Patients’ Gut Microbiome**, CMIT Work-in-Progress Meeting, Center for Microbiome Informatics and Therapeutics, Massachusetts Institute of Technology. Cambridge, MA, 2017
 
-[1] ***Subtype Continuity Revealed by Meta-analysis of the Colorectal Cancer Transcriptome***, Department of Biostatistics Genomics Meeting, Dana-Farber Cancer Institute. Boston, MA, 2015
+[1] **Subtype Continuity Revealed by Meta-analysis of the Colorectal Cancer Transcriptome**, Department of Biostatistics Genomics Meeting, Dana-Farber Cancer Institute. Boston, MA, 2015
 
 ## Conference presentations
 
-[5] ***Tensor Decomposition of Longitudinal Microbiomes***, Joint Statistical Meetings. Virtual Conference, 2021
+[5] **Tensor Decomposition of Longitudinal Microbiomes**, Joint Statistical Meetings. Virtual Conference, 2021
 
-[4] ***Tensor Decomposition of Longitudinal Microbiomes***, ENAR Spring Meeting. Virtual Conference, 2021
+[4] **Tensor Decomposition of Longitudinal Microbiomes**, ENAR Spring Meeting. Virtual Conference, 2021
 
-[3] ***SparseDOSSA: A Statistical Model for Simulating Realistic Microbial Community Profiles***, Joint Statistical Meetings. Virtual Conference, 2020
+[3] **SparseDOSSA: A Statistical Model for Simulating Realistic Microbial Community Profiles**, Joint Statistical Meetings. Virtual Conference, 2020
 
-[2] ***Population Structure Discovery in Meta-Analyzed Microbial Communities***, Confernece on Intelligent Systems for Molecular Biology. Chicago, Il, 2018
+[2] **Population Structure Discovery in Meta-Analyzed Microbial Communities**, Confernece on Intelligent Systems for Molecular Biology. Chicago, Il, 2018
 
-[1] ***Population Structure Discovery in Meta-Analyzed Microbial Communities***, Joint Statistical Meetings. Baltimore, MD, 2017
+[1] **Population Structure Discovery in Meta-Analyzed Microbial Communities**, Joint Statistical Meetings. Baltimore, MD, 2017
 
 ## Softwares
 
