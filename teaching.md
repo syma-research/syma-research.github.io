@@ -3,6 +3,8 @@ layout: default
 title: "Teaching"
 ---
 
+Here I list the classes I guest lectured and led lab sessions for at the Harvard T.H. Chan School of Public Health.
+
 Guest lecturer:
 
 * BST 272, Introduction to programming

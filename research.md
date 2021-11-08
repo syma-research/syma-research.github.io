@@ -61,6 +61,6 @@ title: "Research"
 
 ## Softwares
 
-[2] [SparseDOSSA 2](https://huttenhower.sph.harvard.edu/sparsedossa2/): A statistical model for describing and simulating microbial community profiles
+[2] **[SparseDOSSA 2](https://huttenhower.sph.harvard.edu/sparsedossa2/)**: A statistical model for describing and simulating microbial community profiles
 
-[1] [MMUPHin](https://www.bioconductor.org/packages/release/bioc/html/MMUPHin.html): Meta-analysis Methods with Uniform Pipeline for Heterogeneity in Microbiome Studies
+[1] **[MMUPHin](https://www.bioconductor.org/packages/release/bioc/html/MMUPHin.html)**: Meta-analysis Methods with Uniform Pipeline for Heterogeneity in Microbiome Studies
