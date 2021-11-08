@@ -19,6 +19,3 @@ menu:
 # - {icon: 'twitter', link: 'https://twitter.com/paululele'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 # - {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
-
-contacts:
-- {name: 'Siyuan Ma, Ph.D.', title: 'Postdoctoral researcher', department: 'Department of Biostatistics, Epidemiology, and Informatics', institution: 'University of Pennsylvania', institution_address: '423 Guardian Dr., Philadelphia, PA', email: 'siyuan.ma@pennmedicine.upenn.edu'}
