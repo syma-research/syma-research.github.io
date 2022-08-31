@@ -5,12 +5,12 @@ title: "Contact"
 
 **Siyuan Ma, Ph.D.**
 
-Postdoctoral researcher
+Assistant Professor of Biostatistics
 
-Department of Biostatistics, Epidemiology, and Informatics
+Department of Biostatistics
 
-University of Pennsylvania
+Vanderbilt University Medical Center
 
-423 Guardian Dr., Philadelphia, PA
+2525 West End Ave, Nashville, TN
 
-<siyuan.ma@pennmedicine.upenn.edu>
+<siyuan.ma@vumc.org>
