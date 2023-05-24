@@ -7,7 +7,7 @@ title: "Research"
 
 Common application problems in microbiome epidemiology include study design (power calculation), dimension reduction, biomarker discovery (association analysis), and data normalization and technical effect correction. Statistical methods, when targeting these applications, need to account for the unique characteristics of microbiome data, such as zero-inflation, compositionality, and high-dimensionality. These papers represent my efforts in this space (ordered by date of publication).
 
-<img src="{{ site.github.url }}/assets/img/photo.jpeg" alt="photo" width="100%">
+<img style="float: right;" src="{{ site.github.url }}/assets/img/sparsedossa.png" alt="sparsedossa" width="30%">
 
 **Ma, S.** and Li, H., 2023. A tensor decomposition model for longitudinal microbiome studies. _The Annals of Applied Statistics_, 17(2), pp.1105-1126.
 
