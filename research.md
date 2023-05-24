@@ -5,7 +5,7 @@ title: "Research"
 
 <figure>
   <img style="float: right;" src="{{ site.github.url }}/assets/img/sparsedossa.jpg" alt="sparsedossa" width="25%">
-  <figcaption>Illustration of SparseDOSSA, a computational method to generate realistic synthetic microbiome profiles for e.g. power analysis.</figcaption>
+  <ficaption>Illustration of SparseDOSSA, a computational method to generate realistic synthetic microbiome profiles for e.g. power analysis.</ficaption>
 </figure>
 
 ## Statistical and quantitative methods for the microbiome
