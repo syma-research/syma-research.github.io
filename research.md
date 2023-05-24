@@ -3,12 +3,9 @@ layout: default
 title: "Research"
 ---
 
-<figure>
-  <img style="float: right;" src="{{ site.github.url }}/assets/img/sparsedossa.jpg" alt="sparsedossa" width="25%">
-  <ficaption>Illustration of SparseDOSSA, a computational method to generate realistic synthetic microbiome profiles for e.g. power analysis.</ficaption>
-</figure>
-
 ## Statistical and quantitative methods for the microbiome
+
+<img style="float: right;" src="{{ site.github.url }}/assets/img/sparsedossa.jpg" alt="sparsedossa" width="25%">
 
 Common application problems in microbiome epidemiology include study design (power calculation), dimension reduction, biomarker discovery (association analysis), and data normalization and technical effect correction. Statistical methods, when targeting these applications, need to account for the unique characteristics of microbiome data, such as zero-inflation, compositionality, and high-dimensionality. These papers represent my efforts in this space (ordered by date of publication).
 
