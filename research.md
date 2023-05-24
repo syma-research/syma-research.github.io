@@ -7,6 +7,8 @@ title: "Research"
 
 Common application problems in microbiome epidemiology include study design (power calculation), dimension reduction, biomarker discovery (association analysis), and data normalization and technical effect correction. Statistical methods, when targeting these applications, need to account for the unique characteristics of microbiome data, such as zero-inflation, compositionality, and high-dimensionality. These papers represent my efforts in this space (ordered by date of publication).
 
+<img style="float: right;" src="https://github.com/syma-research/syma-research.github.io/assets/sparsedossa.png">
+
 **Ma, S.** and Li, H., 2023. A tensor decomposition model for longitudinal microbiome studies. _The Annals of Applied Statistics_, 17(2), pp.1105-1126.
 
 **Ma, S.** and Li, H., 2022. Statistical and Computational Methods for Microbial Strain Analysis. In _Statistical Genomics_ (pp. 231-245). New York, NY: Springer US.
