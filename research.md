@@ -33,7 +33,7 @@ Sinha, R., Abu-Ali, G., Vogtmann, E., Fodor, A.A., Ren, B., Amir, A., Schwager, 
 
 ## Spatial genomics
 
-<img style="float: right;" src="{{ site.github.url }}/assets/img/interaction.jpg" alt="interaction" width="40%">
+<img style="float: right;" src="{{ site.github.url }}/assets/img/interaction.jpg" alt="interaction" width="50%">
 
 Spatial molecular assays (spatial transcriptome sequencing, multiplexed immunofluorescence imaging) provide crucial proximity information to study cellular and intercelluar activities transcrip in health and diseases. I am excited by this rapidly developing field and have made preliminary contributions, specifically for testing immune cell colocalization (paracrine cell-cell interactions).
 
