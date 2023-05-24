@@ -17,8 +17,6 @@ Common application problems in microbiome epidemiology include study design (pow
  
 Mallick, H., Rahnavard, A., McIver, L.J., **Ma, S.**, Zhang, Y., Nguyen, L.H., Tickle, T.L., Weingart, G., Ren, B., Schwager, E.H. and Chatterjee, S., 2021. Multivariable association discovery in population-scale meta-omics studies. _PLOS Computational Biology_, 17(11), p.e1009442.
 
-Mallick, H., **Ma, S.**, Franzosa, E.A., Vatanen, T., Morgan, X.C. and Huttenhower, C., 2017. Experimental design and quantitative analysis of microbial community multiomics. _Genome Biology_, 18(1), pp.1-16.
-
 ## Collaborative microbiome research
 
 Analyzing microbiome data in practice requires careful considerations for common issues and pitfalls, such as the approriate choice of quantitative method, interpretation of findings, and controling false discovery findings. I am actively involved in collabroative, interdisciplinary research, to design the ideal analytical approach and ensure that scientific findings are robust and reproducible. These applications vary across different microbial ecology enivronments, disease phenotypes, and cohort designs.
@@ -26,6 +24,8 @@ Analyzing microbiome data in practice requires careful considerations for common
 Tan, Y., Shilts, M.H., Rosas-Salazar, C., Puri, V., Fedorova, N., Halpin, R.A., **Ma, S.**, Anderson, L.J., Peebles Jr, R.S., Hartert, T.V. and Das, S.R., 2023. Influence of Sex on Respiratory Syncytial Virus Genotype Infection Frequency and Nasopharyngeal Microbiome. _Journal of Virology_, 97(3), pp.e01472-22.
 
 Thompson, K.N., Oulhote, Y., Weihe, P., Wilkinson, J.E., **Ma, S.**, Zhong, H., Li, J., Kristiansen, K., Huttenhower, C. and Grandjean, P., 2022. Effects of Lifetime Exposures to Environmental Contaminants on the Adult Gut Microbiome. _Environmental Science & Technology_, 56(23), pp.16985-16995.
+
+Mallick, H., **Ma, S.**, Franzosa, E.A., Vatanen, T., Morgan, X.C. and Huttenhower, C., 2017. Experimental design and quantitative analysis of microbial community multiomics. _Genome Biology_, 18(1), pp.1-16.
 
 Sinha, R., Abu-Ali, G., Vogtmann, E., Fodor, A.A., Ren, B., Amir, A., Schwager, E., Crabtree, J., **Ma, S.**, Microbiome Quality Control Project Consortium and Abnet, C.C., 2017. Assessment of variation in microbial community amplicon sequencing by the Microbiome Quality Control (MBQC) project consortium. _Nature Biotechnology_, 35(11), pp.1077-1086.
 
