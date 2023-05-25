@@ -23,7 +23,7 @@ Mallick, H., **Ma, S.**, Franzosa, E.A., Vatanen, T., Morgan, X.C. and Huttenhow
 
 ## Collaborative microbiome research
 
-Analyzing microbiome data in practice requires careful considerations for common issues and pitfalls, such as the approriate choice of quantitative method, interpretation of findings, and controling false discovery findings. I am actively involved in collabroative, interdisciplinary research, to design the ideal analytical approach and ensure that scientific findings are robust and reproducible. These applications vary across different microbial ecology enivronments, disease phenotypes, and cohort designs.
+Analyzing microbiome data in practice requires careful considerations for common issues and pitfalls, such as the approriate choice of quantitative method, interpretation of findings, and controlling false discovery findings. I am actively involved in collabroative, interdisciplinary research, to design the ideal analytical approach and ensure that scientific findings are robust and reproducible. These applications vary across different microbial ecology enivronments, disease phenotypes, and cohort designs.
 
 Tan, Y., Shilts, M.H., Rosas-Salazar, C., Puri, V., Fedorova, N., Halpin, R.A., **Ma, S.**, Anderson, L.J., Peebles Jr, R.S., Hartert, T.V. and Das, S.R., 2023. Influence of Sex on Respiratory Syncytial Virus Genotype Infection Frequency and Nasopharyngeal Microbiome. _Journal of Virology_, 97(3), pp.e01472-22.
 
