@@ -3,7 +3,7 @@ layout: default
 title: "Research"
 ---
 
-## Statistical and quantitative methods for the microbiome
+## Statistical and computational methods for the microbiome
 
 <img style="float: right;" src="{{ site.github.url }}/assets/img/sparsedossa.jpg" alt="sparsedossa" width="25%">
 
@@ -19,6 +19,8 @@ Common application problems in microbiome epidemiology include study design (pow
  
 Mallick, H., Rahnavard, A., McIver, L.J., **Ma, S.**, Zhang, Y., Nguyen, L.H., Tickle, T.L., Weingart, G., Ren, B., Schwager, E.H. and Chatterjee, S., 2021. Multivariable association discovery in population-scale meta-omics studies. _PLOS Computational Biology_, 17(11), p.e1009442.
 
+Mallick, H., **Ma, S.**, Franzosa, E.A., Vatanen, T., Morgan, X.C. and Huttenhower, C., 2017. Experimental design and quantitative analysis of microbial community multiomics. _Genome Biology_, 18(1), pp.1-16.
+
 ## Collaborative microbiome research
 
 Analyzing microbiome data in practice requires careful considerations for common issues and pitfalls, such as the approriate choice of quantitative method, interpretation of findings, and controling false discovery findings. I am actively involved in collabroative, interdisciplinary research, to design the ideal analytical approach and ensure that scientific findings are robust and reproducible. These applications vary across different microbial ecology enivronments, disease phenotypes, and cohort designs.
@@ -27,15 +29,13 @@ Tan, Y., Shilts, M.H., Rosas-Salazar, C., Puri, V., Fedorova, N., Halpin, R.A., 
 
 Thompson, K.N., Oulhote, Y., Weihe, P., Wilkinson, J.E., **Ma, S.**, Zhong, H., Li, J., Kristiansen, K., Huttenhower, C. and Grandjean, P., 2022. Effects of Lifetime Exposures to Environmental Contaminants on the Adult Gut Microbiome. _Environmental Science & Technology_, 56(23), pp.16985-16995.
 
-Mallick, H., **Ma, S.**, Franzosa, E.A., Vatanen, T., Morgan, X.C. and Huttenhower, C., 2017. Experimental design and quantitative analysis of microbial community multiomics. _Genome Biology_, 18(1), pp.1-16.
-
 Sinha, R., Abu-Ali, G., Vogtmann, E., Fodor, A.A., Ren, B., Amir, A., Schwager, E., Crabtree, J., **Ma, S.**, Microbiome Quality Control Project Consortium and Abnet, C.C., 2017. Assessment of variation in microbial community amplicon sequencing by the Microbiome Quality Control (MBQC) project consortium. _Nature Biotechnology_, 35(11), pp.1077-1086.
 
 ## Spatial genomics
 
 <img style="float: right;" src="{{ site.github.url }}/assets/img/interaction.jpg" alt="interaction" width="50%">
 
-Spatial molecular assays (spatial transcriptome sequencing, multiplexed immunofluorescence imaging) provide crucial proximity information to study cellular and intercelluar activities transcrip in health and diseases. I am excited by this rapidly developing field and have made preliminary contributions, specifically for testing immune cell colocalization (paracrine cell-cell interactions).
+Spatial molecular assays (spatial transcriptome sequencing, multiplexed immunofluorescence imaging) provide crucial proximity information to study cellular and intercelluar activities in health and diseases. I am excited by this rapidly developing field and have made preliminary contributions, specifically for testing immune cell colocalization (paracrine cell-cell interactions).
 
 Kondo, A., **Ma, S.**, Lee, M.Y., Ortiz, V., Traum, D., Schug, J., Wilkins, B., Terry, N.A., Lee, H. and Kaestner, K.H., 2021. Highly multiplexed image analysis of intestinal tissue sections in patients with inflammatory bowel disease. _Gastroenterology_, 161(6), pp.1940-1952.
 
