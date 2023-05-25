@@ -41,7 +41,7 @@ Kondo, A., **Ma, S.**, Lee, M.Y., Ortiz, V., Traum, D., Schug, J., Wilkins, B., 
 
 ## General computational genomics research
 
-I have broad interests in applyig quantitative methods to characterize the molecular profiles of various types of diseases. See examples below for studying the heterogenity of colorectal cancer and the dynamic cycle of malaria infection.
+I have broad interests in applying quantitative methods to characterize the molecular profiles of various diseases. See examples below for studying the heterogenity of colorectal cancer and the dynamic cycle of malaria infection.
 
 **Ma, S.**, Ogino, S., Parsana, P., Nishihara, R., Qian, Z., Shen, J., Mima, K., Masugi, Y., Cao, Y., Nowak, J.A. and Shima, K., 2018. Continuity of transcriptomes among colorectal cancer subtypes based on meta-analysis. _Genome Biology_, 19(1), pp.1-14.
 
