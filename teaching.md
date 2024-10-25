@@ -3,7 +3,13 @@ layout: default
 title: "Teaching"
 ---
 
-Here are the classes I guest lectured and led lab sessions for at the Harvard T.H. Chan School of Public Health.
+**Vanderbilt University Medical Center**
+
+Instructor:
+
+* BIOS 6341-01: Fundamentals of Probability
+
+**Harvard T.H. Chan School of Public Health**
 
 Guest lecturer:
 
